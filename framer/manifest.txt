@@ -870,6 +870,12 @@ node_modules/@framer/framer.examples/code/AlertView.tsx
 node_modules/@framer/framer.examples/code/ActionSheet.tsx
 node_modules/@framer/framer.examples/build/index.js
 node_modules/@framer/framer.examples/README.md
+node_modules/@framer/framer.device-skin-apple-iphone-xr-yellow/yarn.lock
+node_modules/@framer/framer.device-skin-apple-iphone-xr-yellow/package.json
+node_modules/@framer/framer.device-skin-apple-iphone-xr-yellow/index.ts
+node_modules/@framer/framer.device-skin-apple-iphone-xr-yellow/device.png
+node_modules/@framer/framer.device-skin-apple-iphone-xr-yellow/build/index.js.map
+node_modules/@framer/framer.device-skin-apple-iphone-xr-yellow/build/index.js
 node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/yarn.lock
 node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/package.json
 node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/index.ts
@@ -2678,13 +2684,13 @@ design/images/OYJlA47zhaTA86kNksQek3M3yQ.jpg
 design/images/OQrLgR3wqjvgcg3phTBAu2cudY.png
 design/images/NQqycAhe7QEbP0xWdzyIK71ZZV0.png
 design/images/NJ0JgVepTwo6XEt5R9TIflVBd9U.jpg
+design/images/MHsJIqPYU4o0FbNhlyKQSGwkDa4.png
 design/images/Lx8h8Hgub0tk7IY56gFg9gpY.jpg
 design/images/Ld4t000z3aNyNdEIEOEJt72OZ8.jpg
 design/images/LYided2IeOkzgwnp6HAqEsAiaTQ.jpg
 design/images/K3JuaPZThT5FsL1pRWHpx9mVo.jpg
 design/images/Jwue1v814qwSgjVhIgJsHf3GI.jpg
 design/images/JdAR4pPPBKcQXxxWX4CIyahH0o.jpg
-design/images/JNResgV3tLsWprdgh7oBmKZwGo.png
 design/images/HdRhRmqAUiYJdV1TiEI6sstPQE.png
 design/images/HLHEAexuHUjq9fMrCFSk4IPb8.jpg
 design/images/HInVeJasKuarLSpMgtKgjdmrRk.png
